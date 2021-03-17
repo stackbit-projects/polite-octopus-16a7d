@@ -28,7 +28,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-    image: images/AdobeStock_90602048.jpeg
   - title: lorem-ipsum
     section_id: lorem-ipsum
     posts_number: 0
