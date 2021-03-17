@@ -16,14 +16,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      *
-    actions: []
-    type: section_content
-    image: images/7.jpg
   - section_id: about
     type: section_content
     title: About
