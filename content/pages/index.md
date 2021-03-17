@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: SECNET CLOUD
     content: >
-      A network engineer's journey from on-prem to the cloud and everything
-      inbetween
+      *A network engineer's journey from on-prem to the cloud and everything
+      else in between.*
   - section_id: about
     type: section_content
     title: About
