@@ -16,6 +16,11 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
   - section_id: about
     type: section_content
     title: About
