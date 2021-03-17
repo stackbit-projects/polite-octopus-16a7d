@@ -9,7 +9,7 @@ sections:
       *A network engineer's journey from on-prem to the cloud and everything
       else in between.*
     actions:
-      - label: lorem-ipsum
+      - label: Secnet
         url: '#'
         style: link
         icon_class: dev
