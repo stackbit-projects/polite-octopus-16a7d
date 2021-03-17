@@ -35,6 +35,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+    image: images/AdobeStock_90602048.jpeg
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
