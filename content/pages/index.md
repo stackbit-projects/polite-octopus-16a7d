@@ -29,6 +29,11 @@ sections:
         url: /contact
         style: button
     image: images/AdobeStock_90602048.jpeg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
