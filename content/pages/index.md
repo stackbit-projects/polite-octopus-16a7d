@@ -32,6 +32,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/7.jpg
   - section_id: about
     type: section_content
     title: About
