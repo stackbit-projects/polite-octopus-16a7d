@@ -2,7 +2,6 @@
 title: About Me
 subtitle: This is a short page about me and my work.
 img_path: images/AdobeStock_146040795.jpeg
-img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
   description: This is the about me page
