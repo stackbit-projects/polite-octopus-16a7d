@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Cloud Secu
     section_id: lorem-ipsum
     posts_number: 4
     actions: []
