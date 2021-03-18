@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - 'Ask a '
+          - Ask a question
           - Other
       - input_type: textarea
         name: message
