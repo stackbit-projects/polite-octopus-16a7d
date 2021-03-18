@@ -1,5 +1,5 @@
 ---
-title: Cloud Secur
+title: Cloud Security
 hide_title: true
 excerpt: lorem-ipsum
 sections:
