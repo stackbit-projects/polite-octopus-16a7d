@@ -41,7 +41,7 @@
             },
             {
                 "label": "cloud security",
-                "url": "#",
+                "url": "/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
