@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Sponsorship
+          - 'Ask a '
           - Other
       - input_type: textarea
         name: message
