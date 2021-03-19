@@ -8,14 +8,7 @@ sections:
     content: >
       *A network engineer's journey from on-prem to the cloud and everything
       else in between.*
-    actions:
-      - label: Secnet Cloud
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - section_id: about
     type: section_content
     title: About
