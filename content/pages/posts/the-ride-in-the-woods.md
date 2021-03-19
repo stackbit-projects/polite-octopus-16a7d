@@ -23,7 +23,7 @@ seo:
       value: A cautionary tale about riding
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: 
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
